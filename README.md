@@ -1,0 +1,1 @@
+This is my second assignment for my School of Engineering- AltSchool. It is a landing page with a form. It is designed to be responsive on both small and large screens. I used only HTML and CSS with major dabbling in CSS Flexbox properties.
